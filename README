@@ -1,0 +1,24 @@
+Part 1:
+    This program utilizes two different functions to calculate the area of a rectangle given its length and width 
+    from user input and whether a user inputted integer is a prime number. The area calculation is done using 
+    multiplication whereas the prime number finder uses operators such as EQUAL TO, NOT EQUAL TO, REMAINDER, 
+    and GREATER/LESS THAN.
+Part 2:
+    The first part utlizes a for loop in order to print all even numbers from 50 to 0 and incriments the numbers 
+    using subtraction by 2. The second part both a while loop to accept array elements while the 
+    incriment is less than 10. It will then print the elements using a for loop incrementing until 10 is reached.
+Part 3:
+    The first part accepts the users name as a string, their age as a float, and their favorite number as a float. 
+    Each value is then outputted back to the user. The second part declares an integer, float, character, and string 
+    and outputs it back to the user.
+Part 4:
+    The first part determines the largest of a given set of 3 inputs from the user and prints them using multiple if 
+    statements. The second part checks if a user inputted year is a leap year by using logical operators such as AND, 
+    NOT, and OR. 
+Part 5:
+    This program first outputs a menu selection with 4 options: addition, subtraction, multiplication, and division. 
+    The user picks an options and is met with prompts to give 2 values that are computed. This is done using a switch
+    case.
+Part 6:
+    This part involved debugging a given program and finding its errors and correcting them. The first error involved 
+    a syntax mistake where "=" was used in place of "==". The second error featured missing "{}".
